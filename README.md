@@ -1,5 +1,6 @@
 # wallnews
 ## Instruciones:
-### cd portal_noticias
+### git clone
+### cd wallnews
 ### npm install
 ### node index.js
