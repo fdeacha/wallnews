@@ -1,4 +1,4 @@
-"# wallnews" 
+# wallnews
 ## Instruciones:
 ### cd portal_noticias
 ### npm install
