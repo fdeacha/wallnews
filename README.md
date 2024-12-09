@@ -1,6 +1,6 @@
 # wallnews
 ## Instruciones:
-### git clone
+### git clone https://github.com/fdeacha/wallnews.git
 ### cd wallnews
 ### npm install
 ### node index.js
